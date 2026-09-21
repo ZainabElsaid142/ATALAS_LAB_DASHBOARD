@@ -1,4 +1,3 @@
-
 # 📊 Atlas Labs HR Analytics - Professional Business Intelligence Solution 🚀
 
 > An end-to-end data analytics and business intelligence project built to evaluate workforce dynamics, employee performance trends, demographic distributions, and organizational attrition risks using **Power BI**, **Star Schema Modeling**, and **DAX**.
@@ -11,46 +10,39 @@
 ### 1️⃣ Executive Overview Dashboard
 > *High-level tracking of active headcount, total employee metrics, and overall company attrition benchmarks.*
 <div align="center">
-
   
-  <img width="629" height="356" alt="لقطة الشاشة 2026-09-21 011926" src="https://github.com/user-attachments/assets/396fbfe7-3167-4dec-9ce8-a0a558f6beaf" />
+<img width="629" height="356" alt="لقطة الشاشة 2026-09-21 011926" src="https://github.com/user-attachments/assets/7c46556a-0ca1-4238-86eb-9f150d107dbf" />
 
-  
-  <img width="635" height="356" alt="لقطة الشاشة 2026-09-21 012344" src="https://github.com/user-attachments/assets/09d3dc0e-14fc-41a2-b56d-4b564cc55a68" />
-
-  
-  <img width="633" height="360" alt="لقطة الشاشة 2026-09-21 012448" src="https://github.com/user-attachments/assets/3e042238-24d2-48a8-b950-fc2f8dd0d85a" />
-
-
-
-<img width="635" height="356" alt="لقطة الشاشة 2026-09-21 012200" src="https://github.com/user-attachments/assets/1b38826e-943e-4576-91a3-382384cc0194" />
-
-
-  <img width="748" height="380" alt="SCIMA" src="https://github.com/user-attachments/assets/ad4ce9f6-780b-4370-9f5e-4b1541cdf0a4" />
-
-  
 
 ### 2️⃣ Demographics & Diversity Dashboard
 > *Deep-dive workforce breakdown covering age distributions, gender diversity, marital status, and educational levels.*
 <div align="center">
-  <img src="path_to_your_screenshot_2.png" alt="Demographics Dashboard" width="100%"/>
-</div>
+  
+<img width="635" height="356" alt="لقطة الشاشة 2026-09-21 012200" src="https://github.com/user-attachments/assets/0235fffd-48f9-4f16-9abc-b54d3bb17e94" />
+
 
 ### 3️⃣ Performance Tracker Dashboard
 > *Comprehensive evaluation of employee review cycles, performance brackets, and productivity ratings.*
 <div align="center">
-  <img src="path_to_your_screenshot_3.png" alt="Performance Tracker Dashboard" width="100%"/>
-</div>
+  
+<img width="635" height="356" alt="لقطة الشاشة 2026-09-21 012344" src="https://github.com/user-attachments/assets/7979d6e9-8ffc-40ce-bc78-7b9edd111eab" />
+
 
 ### 4️⃣ Attrition & Turnover Analysis Dashboard
 > *Investigative view identifying the root causes of employee turnover, department risk levels, and OverTime burnout impact.*
 <div align="center">
-  <img src="path_to_your_screenshot_4.png" alt="Attrition Analysis Dashboard" width="100%"/>
-</div>
+<img width="633" height="360" alt="لقطة الشاشة 2026-09-21 012448" src="https://github.com/user-attachments/assets/c4289c75-f9f2-4d8f-90a6-be79d4be7ef0"
 
 ---
 
-## 🎯 Project Overview & Objectives
+### 🗄️ Database Schema & Data Modeling Architecture
+> *The relational **Star Schema** designed in Power BI, mapping the relationship between the Fact table and Dimension tables along with the core implemented measures.*
+<div align="center">
+  
+<img width="748" height="380" alt="SCIMA" src="https://github.com/user-attachments/assets/792c5e65-1c6f-45a8-b670-888bd96e7f3e" />
+
+  
+  ## 🎯 Project Overview & Objectives
 The **Atlas Labs HR Analytics Project** transforms raw human resources data into actionable, executive-ready insights. The primary goal is to empower senior management with a clear diagnostic tool to monitor employee lifecycle, optimize retention strategies, and enhance overall organizational productivity.
 
 ---
