@@ -25,13 +25,13 @@
 > *Comprehensive evaluation of employee review cycles, performance brackets, and productivity ratings.*
 <div align="center">
   
-<img width="635" height="356" alt="لقطة الشاشة 2026-09-21 012344" src="https://github.com/user-attachments/assets/7979d6e9-8ffc-40ce-bc78-7b9edd111eab" />
-
-
+<img width="634" height="357" alt="performance" src="https://github.com/user-attachments/assets/885247a5-23e9-464a-94e1-3e74fe14f843" />
+  
+----
 ### 4️⃣ Attrition & Turnover Analysis Dashboard
 > *Investigative view identifying the root causes of employee turnover, department risk levels, and OverTime burnout impact.*
 <div align="center">
-<img width="633" height="360" alt="لقطة الشاشة 2026-09-21 012448" src="https://github.com/user-attachments/assets/c4289c75-f9f2-4d8f-90a6-be79d4be7ef0"
+<img width="632" height="356" alt="attrition" src="https://github.com/user-attachments/assets/fb80de10-a31f-4d1d-af1f-a5ee7742eda1" />
 
 ---
 
